@@ -10,3 +10,4 @@ wustat.windows.com
 download.microsoft.com
 definitionupdates.microsoft.com
 /[a-z0-9-]+\.update.microsoft\.com/
+/.*update\.microsoft\.com.*/
