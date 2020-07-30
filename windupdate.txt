@@ -8,3 +8,4 @@ stats.microsoft.com
 download.microsoft.com
 wustat.windows.com
 download.microsoft.com
+definitionupdates.microsoft.com
